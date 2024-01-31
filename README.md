@@ -1,1 +1,4 @@
 # testzz
+
+https://gitcode.com
+http://pre.gitcode.com
